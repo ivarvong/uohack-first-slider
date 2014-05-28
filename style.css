@@ -48,5 +48,7 @@ body {
 	background: #FFF;
 	padding: 40px;
 	list-style: none;
-	margin-bottom: 30px
+	margin-bottom: 30px;
+	border: 1px solid #CCC;
+	border-radius: 10px;
 }
